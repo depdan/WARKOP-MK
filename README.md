@@ -49,8 +49,8 @@ Hak akses dan alur kerja aplikasi dibagi ke dalam 2 peran utama yang terisolasi:
 
 ### 1. Salin Repositori
 ```bash
-git clone https://github.com/depdan/warkop-stock-management.git
-cd warkop-stock-management
+git clone https://github.com/depdan/WARKOP-MK.git
+cd WARKOP-MK
 ```
 
 ### 2. Penempatan Direktori Web Server (XAMPP)
